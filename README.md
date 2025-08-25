@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Amir Ali Aghamali (alihit96)
+
+I'm a passionate **Software Developer** with a love for building impactful solutions using modern technologies. My journey blends code, creativity, and curiosity about the world.
+
+---
+
+## 🛠️ Tech Stack & Skills
+- **Languages:** C#, TypeScript, Dart
+- **Frameworks:** .NET, React, Flutter
+
+---
+
+## 🌐 Find Me Online
+- **Website:** [amiraliaghamali.ir](https://amiraliaghamali.ir)
+- **Telegram:** [@iclaudiusgreen](https://t.me/iclaudiusgreen)
+- **LinkedIn:** [Amir Ali Aghamali](https://www.linkedin.com/in/amir-ali-aghamali-b68395167/)
+
+---
+
+## ⚽ Beyond Code
+When I'm not coding, you’ll find me on the soccer field or exploring new languages and cultures. I believe that cross-disciplinary curiosity fuels better ideas in tech.
+
+---
+
+## 🏅 Achievements
+- Ranked in the **Top 10** of the Master Exam for the Medical Informatics field
+
+---
 
 <!--
-**alihit96/alihit96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**alihit96/alihit96** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
