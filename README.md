@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amir Ali Aghamali (alihit96)
+# 👋 Hi, I'm Amir Ali (alihit96)
 
 I'm a passionate **Software Developer** with a love for building impactful solutions using modern technologies. My journey blends code, creativity, and curiosity about the world.
 
